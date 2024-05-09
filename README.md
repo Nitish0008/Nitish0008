@@ -35,4 +35,4 @@ I'm a passionate frontend developer with a keen interest in creating dynamic and
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊&nbsp;&nbsp;
 
-[![](https://visitcount.itsvg.in/api?id=irakeshdeka&label=&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nitish0008&label=&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
