@@ -1,4 +1,4 @@
-## Hi heloo soro Namaste ! 👋 I'm Nitish Hasim :bust_in_silhouette:
+## Hi Heloo soro Namaste ! 👋 I'm Nitish Hasim :bust_in_silhouette:
 
 I'm a passionate frontend developer with a keen interest in creating dynamic and user-friendly web applications. Welcome to my GitHub profile! 🚀
 
