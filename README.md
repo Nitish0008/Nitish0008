@@ -27,9 +27,9 @@ I'm a passionate frontend developer with a keen interest in creating dynamic and
 
 ### You can also find me on ...
 
-<a href="https://www.linkedin.com/in/irakeshdeka/" title="irakeshdeka" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/irakeshdeka/" target="_blank" title="irakeshdeka" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://rakeshdeka.hashnode.dev/" target="_blank" title="Blogs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="blog" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nitish-hasim-14756b239/" title="irakeshdeka" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/almightynitish8" target="_blank" title="irakeshdeka" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/nitish.hasim1/" target="_blank" title="Blogs" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/facebook-color-icon-2048x2048-bfly1vxr.png" alt="blog" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 
